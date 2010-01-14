@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Pizza Timer</string>
+    <string name="menu_reset">Reset</string>
+    <string name="pizza_notification_text">Pizza is ready.</string>
+    <string name="pizza_countdown_end">Pizza!</string>
+</resources>
